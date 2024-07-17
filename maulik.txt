@@ -1,0 +1,20 @@
+A.
+
+1)A-hyper text markupm language
+2)A-<!--this is comment-->
+3)A-<ul>
+4)A-class
+5)A-<a href="url">
+6)D-<img href="url" src="image.jpg">
+7)B-<tr>
+8)B-<head>
+9)A-readonly
+10)A-<video>
+
+
+
+1)the <title> tag has been use to show the title in webpage.
+2)the purpose of data attribute is showing the datatype in webpage.
+3)
+4)the t
+
